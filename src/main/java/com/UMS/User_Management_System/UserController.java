@@ -1,6 +1,6 @@
 package com.UMS.User_Management_System;
 
-import com.UMS.User_Management_System.User;
+// import com.UMS.User_Management_System.User;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -10,7 +10,7 @@ import java.util.List;
 
 
 @RestController
-@RequestMapping("/user")
+@RequestMapping("/users")
 public class UserController {
 
     @Autowired
