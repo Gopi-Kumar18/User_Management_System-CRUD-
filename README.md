@@ -27,7 +27,7 @@ src/
      │   └── com/UMS/User_Management_System/
      │       ├── User.java
      │       ├── UserController.java
-     │       ├── UserManagementSystemApplication
+     │       ├── UserManagementSystemApplication.java(Main Application)
      │       ├── UserRepository.java
              ├── UserService.java
      └── resources/
